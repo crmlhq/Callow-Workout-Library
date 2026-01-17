@@ -63,5 +63,55 @@
         { "index": 3, "AMRAP": true, "usesWeight": true, "weight": 50 }
       ]
     },
+      {
+      "index": 4,
+      "name": "Running (Treadmill)",
+      "category": "Cardio",
+      "sets": [
+        { "index": 0, "reps": null },
+        { "index": 1, "reps": null },
+        { "index": 2, "reps": null }
+      ]
+    },
+        {
+      "index": 5,
+      "name": "Pull Ups",
+      "category": "Upper Body",
+      "sets": [
+        { "index": 0, "isRange": true, "lower": 6, "upper": 10 },
+        { "index": 1, "isRange": true, "lower": 6, "upper": 10 },
+        { "index": 2, "AMRAP": true }
+      ]
+    },
+        {
+      "index": 6,
+      "name": "Shoulder Press (Dumbbell)",
+      "category": "Upper Body",
+      "sets": [
+        { "index": 0, "isRange": true, "lower": 10, "upper": 12, "usesWeight": true, "weight": 30 },
+        { "index": 1, "isRange": true, "lower": 8, "upper": 10, "usesWeight": true, "weight": 35 },
+        { "index": 2, "AMRAP": true, "usesWeight": true, "weight": 35 }
+      ]
+    },
+        {
+      "index": 7,
+      "name": "Walking Lunges",
+      "category": "Lower Body",
+      "sets": [
+        { "index": 0, "reps": 20 },
+        { "index": 1, "reps": 20 },
+        { "index": 2, "reps": 20 }
+      ]
+    },
+        {
+      "index": 10,
+      "name": "Burpees",
+      "category": "Full Body",
+      "sets": [
+        { "index": 0, "reps": 15 },
+        { "index": 1, "reps": 15 },
+        { "index": 2, "AMRAP": true }
+      ]
+    },
   ]
 }
