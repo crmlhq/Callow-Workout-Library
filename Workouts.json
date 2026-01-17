@@ -41,6 +41,27 @@
         { "index": 1, "reps": null },
         { "index": 2, "reps": null }
       ]
-    }
+    },
+        {
+      "index": 4,
+      "name": "Deadlift (Dumbbell)",
+      "category": "Full Body",
+      "sets": [
+        { "index": 0, "isRange": true, "lower": 10, "upper": 12, "usesWeight": true, "weight": 150 },
+        { "index": 1, "isRange": true, "lower": 14, "upper": 16, "usesWeight": true, "weight": 135 },
+        { "index": 2, "isRange": true, "lower": 10, "upper": 12, "usesWeight": true, "weight": 150 }
+      ]
+    },
+        {
+      "index": 3,
+      "name": "Deadlift (Romanian)",
+      "category": "Full Body",
+      "sets": [
+        { "index": 0, "isRange": true, "lower": 14, "upper": 16, "usesWeight": true, "weight": 40 },
+        { "index": 1, "isRange": true, "lower": 12, "upper": 14, "usesWeight": true, "weight": 50 },
+        { "index": 2, "isRange": true, "lower": 10, "upper": 12, "usesWeight": true, "weight": 60 },
+        { "index": 3, "AMRAP": true, "usesWeight": true, "weight": 50 }
+      ]
+    },
   ]
 }
