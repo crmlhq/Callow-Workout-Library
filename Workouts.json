@@ -6,25 +6,30 @@
       "category": "Strength",
       "sets": [
         { "index": 0, "reps": 12 },
-        { "index": 1, "isRange": true, "lower": 10, "upper": 15 }
+        { "index": 1, "isRange": true, "lower": 10, "upper": 15 },
+        { "index": 2, "AMRAP": true }
       ]
     },
     {
       "index": 1,
-      "name": "Squats",
+      "name": "Squats (Bodyweight)",
       "category": "Strength",
       "sets": [
-        { "index": 0, "reps": 15 },
-        { "index": 1, "reps": 20 }
+        { "index": 0, "reps": 25 },
+        { "index": 1, "reps": 25 },
+        { "index": 2, "reps": 25 },
+        { "index": 3, "reps": 25 }
       ]
     },
     {
       "index": 2,
-      "name": "Bench Press",
+      "name": "Bench Press (Barbell)",
       "category": "Strength",
       "sets": [
-        { "index": 0, "reps": 8, "usesWeight": true, "weight": 80 },
-        { "index": 1, "reps": 6, "usesWeight": true, "weight": 90 }
+        { "index": 0, "isRange": true, "lower": 10, "upper": 12, "usesWeight": true, "weight": 135 },
+        { "index": 1, "isRange": true, "lower": 10, "upper": 12, "usesWeight": true, "weight": 135 },
+        { "index": 2, "isRange": true, "lower": 8, "upper": 10, "usesWeight": true, "weight": 145 },
+        { "index": 3, "AMRAP": true, "usesWeight": true, "weight": 145 }
       ]
     },
     {
@@ -33,16 +38,8 @@
       "category": "Core",
       "sets": [
         { "index": 0, "reps": null },
-        { "index": 1, "reps": null }
-      ]
-    },
-    {
-      "index": 4,
-      "name": "Jumping Jacks",
-      "category": "Cardio",
-      "sets": [
-        { "index": 0, "reps": 30 },
-        { "index": 1, "reps": 40 }
+        { "index": 1, "reps": null },
+        { "index": 2, "reps": null }
       ]
     }
   ]
