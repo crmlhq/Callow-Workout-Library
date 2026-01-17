@@ -1,0 +1,23 @@
+{
+  "workouts": [
+    {
+      "index": 0,
+      "name": "Push Ups",
+      "category": "Strength",
+      "sets": [
+        {
+          "index": 0,
+          "reps": 12,
+          "restTime": 60
+        },
+        {
+          "index": 1,
+          "isRange": true,
+          "lower": 10,
+          "upper": 15,
+          "restTime": 60
+        }
+      ]
+    }
+  ]
+}
