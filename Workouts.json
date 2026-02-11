@@ -113,27 +113,26 @@
         { "index": 2, "AMRAP": true }
       ]
     },
-  ]
-},
-{
-  "index": 9,
-  "name": "Curls (Dumbbell)",
-  "category": "Upper Body",
-  "sets": [
-    { "index": 0, "reps": 20, "usesWeight": true, "weight": 25 },
-    { "index": 1, "reps": 20, "usesWeight": true, "weight": 30  },
-    { "index": 2, "AMRAP": true, "usesWeight": true, "weight": 20  },
-    { "index": 3, "AMRAP": true, "usesWeight": true, "weight": 15  }
-  ]
-},
-{
-  "index": 10,
-  "name": "Hammer Curls",
-  "category": "Upper Body",
-  "sets": [
-    { "index": 0, "reps": 20, "usesWeight": true, "weight": 20 },
-    { "index": 1, "reps": 20, "usesWeight": true, "weight": 25  },
-    { "index": 2, "AMRAP": true, "usesWeight": true, "weight": 15  },
-    { "index": 3, "AMRAP": true, "usesWeight": true, "weight": 15  }
-  ]
-}
+  {
+    "index": 9,
+    "name": "Curls (Dumbbell)",
+    "category": "Upper Body",
+    "sets": [
+      { "index": 0, "reps": 20, "usesWeight": true, "weight": 25 },
+      { "index": 1, "reps": 20, "usesWeight": true, "weight": 30  },
+      { "index": 2, "AMRAP": true, "usesWeight": true, "weight": 20  },
+      { "index": 3, "AMRAP": true, "usesWeight": true, "weight": 15  }
+    ]
+  },
+  {
+    "index": 10,
+    "name": "Hammer Curls",
+    "category": "Upper Body",
+    "sets": [
+      { "index": 0, "reps": 20, "usesWeight": true, "weight": 20 },
+      { "index": 1, "reps": 20, "usesWeight": true, "weight": 25  },
+      { "index": 2, "AMRAP": true, "usesWeight": true, "weight": 15  },
+      { "index": 3, "AMRAP": true, "usesWeight": true, "weight": 15  }
+    ]
+  }
+
